@@ -1,0 +1,5 @@
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.SaveTransaction\bin\Debug\KPMG.TaxCalculator.SaveTransaction.dll.config
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.SaveTransaction\bin\Debug\KPMG.TaxCalculator.SaveTransaction.dll
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.SaveTransaction\bin\Debug\KPMG.TaxCalculator.SaveTransaction.pdb
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.SaveTransaction\obj\Debug\KPMG.TaxCalculator.SaveTransaction.dll
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.SaveTransaction\obj\Debug\KPMG.TaxCalculator.SaveTransaction.pdb

@@ -1,0 +1,4 @@
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.Model\bin\Debug\KPMG.TaxCalculator.Model.dll
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.Model\bin\Debug\KPMG.TaxCalculator.Model.pdb
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.Model\obj\Debug\KPMG.TaxCalculator.Model.dll
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.Model\obj\Debug\KPMG.TaxCalculator.Model.pdb

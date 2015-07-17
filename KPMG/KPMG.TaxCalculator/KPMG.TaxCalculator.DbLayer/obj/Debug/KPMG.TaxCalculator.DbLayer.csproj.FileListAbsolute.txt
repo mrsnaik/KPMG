@@ -1,0 +1,12 @@
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.DbLayer\bin\Debug\KPMG.TaxCalculator.DbLayer.dll.config
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.DbLayer\bin\Debug\KPMG.TaxCalculator.DbLayer.dll
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.DbLayer\bin\Debug\KPMG.TaxCalculator.DbLayer.pdb
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.DbLayer\bin\Debug\EntityFramework.dll
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.DbLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.DbLayer\bin\Debug\KPMG.TaxCalculator.Model.dll
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.DbLayer\bin\Debug\KPMG.TaxCalculator.Model.pdb
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.DbLayer\bin\Debug\EntityFramework.xml
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.DbLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.DbLayer\obj\Debug\KPMG.TaxCalculator.DbLayer.csprojResolveAssemblyReference.cache
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.DbLayer\obj\Debug\KPMG.TaxCalculator.DbLayer.dll
+C:\KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator.DbLayer\obj\Debug\KPMG.TaxCalculator.DbLayer.pdb

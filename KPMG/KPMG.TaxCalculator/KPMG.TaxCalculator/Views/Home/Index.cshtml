@@ -1,0 +1,61 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <div class="lead">
+
+        Tax Calculator Web application that processes account transaction data to calculate tax figures for a client tax return.
+        It takes transaction data file of format XLSX or CSV through upload feature then It applies validation process to it and saves to database.
+
+    </div>
+</div>
+<div class="row">
+
+    <p class="alert alert-info">
+        <strong>  There are example files into KPMG\KPMG.TaxCalculator\KPMG.TaxCalculator\CSV files directory , Please try with them , Thanks.</strong>
+    </p>
+
+</div>
+
+<div class="row">
+    <div class="col-md-12 col-lg-12 col-xs-12">
+        <div class="col-md-6 col-lg-6 col-xs-6 col-lg-offset-3">
+            <form class="form-horizontal" action="Home/Upload" method="post" enctype="multipart/form-data">
+                @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+                {
+                    <div class="col-md-12 col-lg-12 col-xs-12 alert alert-danger">
+                        @ViewBag.ErrorMessage
+                    </div>
+                }
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        <div class="panel-title">Tax Calculator</div>
+                    </div>
+                    <div class="panel-body">
+
+                        <div class="form-group">
+                            <label for="lblInputFile" class="col-sm-6 control-label">Upload CSV file:</label>
+                            <input id="inputFile" type="file" name="file" class="file col-sm-6">
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-sm-offset-10 col-sm-2">
+                                <button type="submit" class="btn btn-default">Upload</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                @if (!string.IsNullOrEmpty(ViewBag.CompletionResult))
+                {
+                    <div class="col-md-12 col-lg-12 col-xs-12 alert alert-info">
+                        @ViewBag.CompletionResult
+                    </div>
+                }
+            </form>
+        </div>
+
+
+    </div>
+</div>
